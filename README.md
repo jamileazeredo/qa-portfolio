@@ -1,6 +1,6 @@
 # Hi, I'm Jamile Azeredo 👋
 
-Junior Quality Assurance professional based in Zurich, Switzerland 🇨🇭
+Quality Assurance Analyst based in Zurich, Switzerland 🇨🇭
 ## About Me
 
 I'm Jamile Azeredo, a Quality Assurance professional based in Zurich, Switzerland, transitioning into technology after more than 10 years of professional experience in Brazil — first in the legal field, then running my own business. I chose QA for its strong long-term growth potential and its natural fit with skills I'd already built: structured thinking, attention to detail, and effective collaboration across teams.
