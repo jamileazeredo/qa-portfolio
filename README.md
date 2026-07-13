@@ -1,4 +1,6 @@
 # Hi, I'm Jamile Azeredo 👋
+# Hi, I'm Jamile Azeredo 👋
+
 Quality Assurance Analyst based in Zurich, Switzerland 🇨🇭
 
 ---
@@ -22,6 +24,9 @@ For over 9 years, I built and ran my own beauty business in Brazil, managing dai
 | 🐞 Manual Testing & Bug Reporting | UI Testing, Bug Reporting, Jira | [Read](#sprint-3--manual-testing--bug-reporting) | [View](#feedback-sprint-3) | ✅ Completed |
 | 🔌 API Testing with Postman | REST APIs, Postman, Request/Response Validation | [Read](#sprint-4--api-testing-with-postman) | [View](#feedback-sprint-4) | ✅ Completed |
 | 📱 Mobile Application Testing | Mobile Testing, Checklist Design, Critical Analysis | [Read](#sprint-5--mobile-application-testing) | [View](#feedback-sprint-5) | ✅ Completed |
+
+---
+
 ## Project Journey & Feedback
 
 *Throughout the TripleTen QA Bootcamp, every project was reviewed by a QA mentor. For each project below, I'm sharing what I did, what I learned, and the original reviewer feedback (translated to English) — because learning to receive and apply feedback is a core part of being a good QA professional.*
@@ -51,6 +56,7 @@ This project introduced formal test design techniques: requirements analysis, eq
 
 **English translation:**
 > "Thank you for submitting your Sprint 2 project! At this stage, you started applying equivalence classes and creating your own test cases [...] You structured your classes well and showed a solid theoretical understanding [...] The class 'text with fewer than 2 characters' was missing, which would validate the class of values below the field's accepted limit [...] Great work here! There are still a few opportunities to improve, but your progress is clear."
+
 ---
 
 ### Sprint 3 — [Manual Testing & Bug Reporting](https://github.com/jamileazeredo/manual-testing-bug-reporting)
@@ -78,6 +84,7 @@ My first project testing beyond the user interface: validating REST API endpoint
 
 **English translation:**
 > "What an impressive submission! 17 test cases for the first endpoint and 42 for the second — coverage well beyond the minimum expected. [...] Cases 6 and 14 of Endpoint 2 were incorrectly marked as Passed — according to the specification, 0 items should not allow the order to proceed [...] this was one of the most complete and well-documented submissions I've received for Sprint 4!"
+
 ---
 
 ### Sprint 5 — [Mobile Application Testing](https://github.com/jamileazeredo/mobile-application-testing)
@@ -121,6 +128,7 @@ Over the course of this bootcamp, I developed my own standardized templates — 
 I use AI as part of that system: while I'm the one reading requirements, executing tests, and identifying inconsistencies in the product, AI helps me follow my own template consistently and speed up documentation — making my output more complete, more agile, and more consistent across every project.
 
 This is how I approach tools in general: I build the process, define the standard, and use whatever makes that process faster and more reliable — without losing ownership of the analysis behind it.
+
 ---
 
 ## Contact
