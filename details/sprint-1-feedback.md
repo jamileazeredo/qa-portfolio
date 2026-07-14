@@ -1,6 +1,6 @@
 # Sprint 1 — Reviewer Feedback
 
-(sprint-1-summary.md)<img width="957" height="404" alt="sprint-1-feedback" src="https://github.com/user-attachments/assets/f44eda2a-b797-46a2-8176-d7c3e7a6cbe9" />
+<img width="957" height="404" alt="sprint-1-feedback" src="https://github.com/user-attachments/assets/f44eda2a-b797-46a2-8176-d7c3e7a6cbe9" />
 
 
 **English translation:**
