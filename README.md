@@ -59,6 +59,9 @@ This is how I approach tools in general: I build the process, define the standar
 ## Contact
 
 📍 Wetzikon, Zurich, Switzerland
+
 💼 [LinkedIn](https://www.linkedin.com/in/jamile-azeredo)
+
 💻 [GitHub](https://github.com/jamileazeredo)
+
 📧 azeredojamile.ch@gmail.com
