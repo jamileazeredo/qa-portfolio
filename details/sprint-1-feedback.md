@@ -8,4 +8,4 @@
 
 ---
 
-⬅️ [Back to portfolio](../README.md) · 📄 [View project summary]
+⬅️ [Back to portfolio](../README.md) · 📄 [View project summary](sprint-1-summary.md)
