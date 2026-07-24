@@ -23,7 +23,7 @@ For over 9 years, I built and ran my own beauty business in Brazil, managing dai
 | 🐞 Manual Testing & Bug Reporting | UI Testing, Bug Reporting, Jira | [Read](details/sprint-3-summary.md) | [View](details/sprint-3-feedback.md) | ✅ Completed |
 | 🔌 API Testing with Postman | REST APIs, Postman, Request/Response Validation | [Read](details/sprint-4-summary.md) | [View](details/sprint-4-feedback.md) | ✅ Completed |
 | 📱 Mobile Application Testing | Mobile Testing, Checklist Design, Critical Analysis | [Read](details/sprint-5-summary.md) | [View](details/sprint-5-feedback.md) | ✅ Completed |
-
+| 🗄️ Database Fundamentals & Log Analysis | SQL, PostgreSQL, Command Line | [Read](details/sprint-6-summary.md) | [View](details/sprint-6-feedback.md) | ✅ Completed |
 ---
 
 ## My QA Workflow
