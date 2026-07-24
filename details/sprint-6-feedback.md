@@ -1,6 +1,7 @@
 # Sprint 6 — Reviewer Feedback
 
-![Sprint 6 Feedback](PASTE_SPRINT_6_IMAGE_LINK_HERE)
+![Sprint 6 Feedback](<img width="847" height="385" alt="Captura de Tela 2026-07-24 às 15 02 16" src="https://github.com/user-attachments/assets/99eea66b-6685-4b9a-a13d-83db2c1a6c9d" />
+)
 
 **English translation:**
 > "Congratulations on your work this sprint! You showed a good understanding of the
