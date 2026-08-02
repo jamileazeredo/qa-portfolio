@@ -35,7 +35,7 @@ For over 9 years, I built and ran my own beauty business in Brazil, managing dai
 
 2. **Analyze business rules** — I identify the logic behind each requirement — valid ranges, mandatory fields, dependencies between screens or endpoints — since this is where most edge cases and boundary values come from.
 
-3. **Plan the testing strategy — I decide which techniques apply (equivalence partitioning, boundary value analysis, exploratory testing) and prioritize what to test first based on risk and business impact. I also evaluate whether a scenario is a good candidate for automation, especially for repetitive flows that benefit from consistent, repeatable execution.
+3. Plan the testing strategy — I decide which techniques apply (equivalence partitioning, boundary value analysis, exploratory testing) and prioritize what to test first based on risk and business impact. I also evaluate whether a scenario is a good candidate for automation, especially for repetitive flows that benefit from consistent, repeatable execution.
 
 4. **Create the necessary documentation** — I write test plans, test cases, and checklists structured clearly enough that another QA could pick them up and execute them without needing me to explain anything.
 
