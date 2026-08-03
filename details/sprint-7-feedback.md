@@ -3,13 +3,7 @@
 ![Sprint 7 Feedback](<img width="570" height="525" alt="Captura de Tela 2026-07-30 às 11 26 49" src="https://github.com/user-attachments/assets/13cf5a29-be63-485e-ab43-df4308fa4160" />
 RE)
 
-**English translation:**
-> Hello, Jamile! How are you?
-Thank you for submitting your work for Sprint 7!
-At this stage, the focus is on structuring the automated tests, with the
-creation of the methods that will be implemented later.
-Below are comments on your submission.
-Let's take a look? 🚀
+**English translation:*
 
 General Structure
 ✅ Well done!
