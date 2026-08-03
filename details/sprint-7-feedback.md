@@ -4,14 +4,28 @@
 RE)
 
 **English translation:**
-> "Thank you for submitting your work for Sprint 7! At this stage, the focus is
-> on structuring automated tests, creating the methods that will be implemented
-> later. [...] The class structure with @classmethod setup_class was well
-> applied — good practice for preparing the environment before tests. [...]
-> You followed a consistent structure for method naming, correctly using the
-> test_ prefix [...] Great organization and separation of methods. [...] Your
-> project has been APPROVED!"
+> Hello, Jamile! How are you?
+Thank you for submitting your work for Sprint 7!
+At this stage, the focus is on structuring the automated tests, with the
+creation of the methods that will be implemented later.
+Below are comments on your submission.
+Let's take a look? 🚀
 
+General Structure
+✅ Well done!
+- The use of the class structure with @classmethod setup_class was well
+  applied — good practice for preparing the environment before tests.
+- The server connection check (helpers.is_url_reachable) shows attention to
+  the application's context.
+- You followed a consistent structure for method naming, correctly using the
+  test_ prefix — this is essential for pytest or other tools to recognize
+  your tests.
+- The names cover the main scenarios expected in the Urban Routes interface
+  well.
+- Great organization and separation of methods — this makes reading and
+  future implementation much easier.
+
+Approved
 ---
 
 ⬅️ [Back to portfolio](../README.md) · 📄 [View project summary](sprint-7-summary.md)
