@@ -25,6 +25,7 @@ For over 9 years, I built and ran my own beauty business in Brazil, managing dai
 | 📱 Mobile Application Testing | Mobile Testing, Checklist Design, Critical Analysis | [Read](details/sprint-5-summary.md) | [View](details/sprint-5-feedback.md) | ✅ Completed |
 | 🗄️ Database Fundamentals & Log Analysis | SQL, PostgreSQL, Command Line | [Read](details/sprint-6-summary.md) | [View](details/sprint-6-feedback.md) | ✅ Completed |
 | 🐍 Test Automation (Python/Selenium) | Python, Selenium, pytest, POM | [Read](details/sprint-7-summary.md) | [View](details/sprint-7-feedback.md) | ✅ Completed |
+| 🛴 Final Project — Urban Scooter (Web & API) | Test Case Design, API Testing, SQL, Jira | [Read](details/final-project-summary.md) | [View](details/final-project-feedback.md) | ✅ Completed |
 ---
 
 ## My QA Workflow
